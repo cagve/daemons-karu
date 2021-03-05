@@ -6,11 +6,12 @@
 --background-color:#32302f;
 --page-width:60em;
 --font-color:#fbf1c7;
+--global-font-color:#ebdbb2;
 --invert-font-color:#3c3836;
 --primary-color:#fe8019;
---secondary-color:#8ec07c;
+--secondary-color:#83a598;
 --error-color:#d3869b;
---progress-bar-background:#d5c4a1;
+--progress-bar-background:#727578;
 --progress-bar-fill:#151515;
 --code-bg-color:#e8eff2;
 --input-style:solid;
