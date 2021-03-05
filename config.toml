@@ -1,4 +1,15 @@
-baseURL = "http://example.org/"
+# baseURL = "http://example.org/"
+
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "daemons-karu"
 theme="Niello"
+
+publishDir="docs"
+
+[menu]
+    [[menu.niello]]
+    name = "casa"
+    url = "/"
+    weight = 1
+
+
