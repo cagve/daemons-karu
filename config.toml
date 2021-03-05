@@ -1,7 +1,7 @@
 baseURL = "https://cagve.github.io/daemons-karu"
 languageCode = "en-us"
 title = "daemons-karu"
-publishDir = "docs" 
+publishDir = "docs/" 
 staticDir = ["static", "themes/Niello/static/"]
 
 [params]
