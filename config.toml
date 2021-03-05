@@ -6,6 +6,14 @@ publishDir = "docs"
 
 staticDir = ["static", "themes/Niello/static"]
 
+[params]
+keywords = ""
+description = ""
+copyright = "&#xA9; 2019 by guangmean. All Rights Reserved."
+google_ad_client = "ca-pub-******"
+ga = "UA-******"
+sharethis = ""
+
 [menu]
     [[menu.niello]]
     name = "casa"
