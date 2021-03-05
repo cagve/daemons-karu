@@ -1,21 +1,9 @@
-baseURL = "https://cagve.github.io/"
+baseURL = "https://cagve.github.io/daemons-karu/"
 languageCode = "en-us"
 title = "daemons-karu"
 publishDir = "docs" 
 
 
-[params]
-keywords = ""
-description = ""
-copyright = "&#xA9; 2019 by guangmean. All Rights Reserved."
-google_ad_client = "ca-pub-******"
-ga = "UA-******"
-sharethis = ""
 
-[menu]
-    [[menu.niello]]
-    name = "casa"
-    url = "/"
-    weight = 1
 
 
