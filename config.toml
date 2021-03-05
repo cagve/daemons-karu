@@ -1,4 +1,4 @@
-baseURL = "https://cagve.github.io/daemons-karu/"
+baseURL = "https://cagve.github.io/daemons-karu"
 languageCode = "en-us"
 title = "daemons-karu"
 publishDir = "docs" 
