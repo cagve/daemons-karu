@@ -4,6 +4,8 @@ title = "daemons-karu"
 theme="Niello" 
 publishDir = "docs"
 
+staticDir = ["static", "themes/Niello/static"]
+
 [menu]
     [[menu.niello]]
     name = "casa"
