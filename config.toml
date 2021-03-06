@@ -47,12 +47,12 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
  
 [menu]
     [[menu.main]]
-    name = "casa"
+    name = "whoami"
     weight = 1
-    identifier = "casa"
-    url = "/"
+    identifier = "whoami"
+    url = "/whami"
     [[menu.main]]
     name = "articulos"
     weight = 1 
-    identifier = "articulos"
-    url = "/post/"
+    identifier = "casa"
+    url = "/articulos/"
