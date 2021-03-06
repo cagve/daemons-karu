@@ -25,7 +25,6 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [[params.layout.home.section]]
   type = "about"
-  limit = 3
   title = "whoami"
   weight = 1
 
