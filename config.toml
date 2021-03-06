@@ -12,6 +12,9 @@ theme = [
   "after-dark" 
 ]
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 enableRobotsTXT = true # Suggested, enable robots.txt file
 sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
