@@ -16,42 +16,7 @@ disableLiveReload = false # Optional, set true to disable live reload
 enableRobotsTXT = true # Suggested, enable robots.txt file
 sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
-[params.layout.home]
-  hide_blog = true
-
-[[params.layout.home.section]]
-  type = "about"
-  weight = 1
-
-[[params.layout.home.section]]
-  type = "code" # Required, name of section to show on homepage
-  limit = 4 # Optional, set number of items to show from section
-  weight = 2 # Optional, choose layout order for section
-  thumbs = ["fill", "400x400"] # Optional, thumbnail image processing
-
-[[params.layout.home.section]]
-  type = "site"
-  limit = 2
-  weight = 3
-
 [[params.layout.home.section]]
   type = "post"
-  limit = 3
-  weight = 4
-
-[params.modules.fractal_forest]
-  enabled = true # Optional, set false to disable module
-  decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    weight = 0
-    identifier = "home"
-    url = "/"
-  [[menu.main]]
-    name = "Posts"
-    weight = 1
-    identifier = "post"
-    url = "/post/"
- 
+  limit = 2
+  weight = 3
