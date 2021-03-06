@@ -1,3 +1,4 @@
-#Hello world 
+# Bienvenido/a
 
-Esto es una entrada
+Este es mi blog personal. En él podrás encontrar información a todos los temas que me interesan: vim, linux, software libre, programación lógica, etc.
+
