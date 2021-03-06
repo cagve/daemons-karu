@@ -16,7 +16,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
 sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params.layout.home]
-  hide_blog = true
+  # hide_blog = true
 
 [[params.layout.home.section]]
   type = "post"
@@ -24,7 +24,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   weight = 2
 
 [[params.layout.home.section]]
-  type = "about"
+  type = "whoami"
   title = "whoami"
   weight = 1
 
