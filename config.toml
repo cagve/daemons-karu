@@ -50,7 +50,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [[menu.main]] 
  name = "whoami"
- weight = 2
+ weight = 1
  identifier = "whoami"
  url = "/whoami"
 

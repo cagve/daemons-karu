@@ -1,5 +1,5 @@
 +++
-title = "Search" # title of the page
+title = "search" # title of the page
 layout = "search" # sets the layout to use
 noindex = true # tell robots not to index
 [form]
