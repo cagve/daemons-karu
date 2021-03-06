@@ -39,12 +39,13 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   hidden = true # Optional, set false or remove to show section menu
 
 [params.layout.footer]
-  hidden = false # Optional, set true to hide footer
+  hidden = true # Optional, set true to hide footer
 
 [params.modules.fractal_forest]
   enabled = true # Optional, set false to disable module
   decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
  
+sectionPagesMenu = "main"
 [menu]
     [[menu.main]]
     name = "whoami"
