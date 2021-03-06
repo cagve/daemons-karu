@@ -16,7 +16,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
 sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params.layout.home]
-  # hide_blog = true
+  hide_blog = true
 
 [[params.layout.home.section]]
   type = "post"
@@ -49,8 +49,8 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
  url = "/post/"
 
 [[menu.main]] 
- name = "about"
+ name = "whoami"
  weight = 2
- identifier = "about"
- url = "/about"
+ identifier = "whoami"
+ url = "/whoami"
 
