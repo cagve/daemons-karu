@@ -24,9 +24,9 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 #   limit = 2
 #   weight = 1
 
-# [[params.layout.home.section]]
-#   type = "about"
-#   weight = 2
+[[params.layout.home.section]]
+  type = "about"
+  weight = 2
 
 # [[params.layout.home.section]]
 #   type = "log"
