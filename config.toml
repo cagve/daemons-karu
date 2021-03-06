@@ -32,3 +32,9 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 #   type = "log"
 #   weight = 3
  
+[[menu.main]]
+ name = "Home"
+ weight = 1
+ identifier = "home"
+ url = "/"
+
