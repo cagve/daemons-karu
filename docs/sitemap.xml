@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://domain.example/</loc>
+    <loc>https://cagve.github.io/daemons-karu/categories/</loc>
   </url><url>
-    <loc>https://domain.example/categories/</loc>
+    <loc>https://cagve.github.io/daemons-karu/</loc>
   </url><url>
-    <loc>https://domain.example/tags/</loc>
+    <loc>https://cagve.github.io/daemons-karu/tags/</loc>
   </url>
 </urlset>
