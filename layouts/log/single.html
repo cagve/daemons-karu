@@ -17,6 +17,9 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */}}
 
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
 {{ define "header" }}
   {{ partial "masthead.html" . }}
 {{ end }}
@@ -24,12 +27,9 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
   <header>
     <h1>{{ .Title }}</h1>
   </header>
-  {{ range .Paginator.Pages }}
-    {{ partial "page-summary.html" . }}
-  {{ end }}
+  {{ .Content }}
 {{ end }}
 {{ define "footer" }}
-  <p>{{ partial "pagination.html" . }}</p>
   <small class="muted">
     {{ partial "copyright-notice.html" . }}
   </small>
