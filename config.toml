@@ -29,7 +29,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   weight = 2
 
 [params.layout.home.section]]
-  type = "logs"
-  weight = 2
+  type = "log"
+  weight = 3
 
 
