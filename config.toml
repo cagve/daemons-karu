@@ -51,9 +51,9 @@ sectionPagesMenu = "main"
     name = "whoami"
     weight = 1
     identifier = "whoami"
-    url = "/whami"
+    url = "/"
     [[menu.main]]
     name = "articulos"
     weight = 1 
-    identifier = "casa"
-    url = "/articulos/"
+    identifier = "articulos"
+    url = "/post/"
