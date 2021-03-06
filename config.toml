@@ -23,7 +23,9 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   limit = 2
   weight = 1
 
-[[menu.main]]
+ 
+# MENÚ
+[[menu.main]] 
  name = "home"
  weight = 1
  identifier = "home"
