@@ -28,7 +28,6 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   title = "whoami"
   weight = 1
 
- 
 # MENÚ
 [[menu.main]] 
  name = "home"
