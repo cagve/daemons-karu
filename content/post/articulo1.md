@@ -2,7 +2,7 @@
 title = "Articulo1"
 date = 2021-03-06T12:17:01+01:00
 description = "This text was generated using the After Dark post archetype."
-draft = true
+draft = false
 toc = false
 categories = ["hacking"]
 tags = ["after", "dark"]
