@@ -32,8 +32,8 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 #   weight = 3
  
 [[menu.main]]
- name = "casa"
+ name = "home"
  weight = 1
- identifier = "casa"
+ identifier = "home"
  url = "/"
 
