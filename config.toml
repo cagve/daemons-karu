@@ -13,7 +13,7 @@ theme = [
 ]
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
-# sectionPagesMenu = "main" # Enable menu system for lazy bloggers
+sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params.layout.home]
   hide_blog = true
@@ -26,6 +26,10 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
 
 [[params.layout.home.section]]
   type = "about"
+  weight = 2
+
+[params.layout.home.section]]
+  type = "logs"
   weight = 2
 
 
