@@ -1,15 +1,9 @@
 +++
-title = "Hello-world"
-date = 2021-03-06T13:58:38+01:00
-description = "Este es mi primer post."
-draft = true
-toc = false
-categories = ["hacking"]
-tags = ["after", "dark"]
-owner = "Karu"
-license = "cc-by-nc-sa-4.0"
+title = "Hello world"
+description = "Primera entrada del blog"
 +++
 
-# Hello world
+Esta es la primera entrada del blog. En ella probaremos algunos comandos.
 
-Hola a todos, este es mi primer post. Por ello, lo utilizaré como prueba
+## Bye - world
+Me despido por ahora
