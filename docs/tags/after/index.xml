@@ -4,21 +4,24 @@
     <title>after on daemons karu</title>
     <link>https://cagve.github.io/daemons-karu/tags/after/</link>
     <description>Recent content in after on daemons karu</description>
-    <image>
-      <title>after on daemons karu</title>
-      <link>https://cagve.github.io/daemons-karu/tags/after/</link>
-      <url>https://source.unsplash.com/collection/983219/2000x1322</url>
-    </image>
     <ttl>1440</ttl>
     <generator>After Dark 9.2.3 (Hugo 0.81.0)</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Mar 2021 14:43:50 UT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 14:52:15 UT</lastBuildDate>
     <atom:link href="https://cagve.github.io/daemons-karu/tags/after/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Byeworld</title>
+      <link>https://cagve.github.io/daemons-karu/post/byeworld/</link>
+      <pubDate>Sat, 06 Mar 2021 14:50:03 UT</pubDate>
+      <guid>https://cagve.github.io/daemons-karu/post/byeworld/</guid>
+      <description>BYE WORLD </description>
+      <category domain="https://cagve.github.io/categories/hacking">Hacking</category>
+      <content:encoded><![CDATA[BYE WORLD ]]></content:encoded>
+    </item>
     <item>
       <title>Hello-world</title>
       <link>https://cagve.github.io/daemons-karu/post/helloworld/</link>
       <pubDate>Sat, 06 Mar 2021 12:58:38 UT</pubDate>
-      <dc:creator>Karu</dc:creator>
       <guid>https://cagve.github.io/daemons-karu/post/helloworld/</guid>
       <description>Hello world Hola a todos, este es mi primer post. Por ello, lo utilizaré como prueba</description>
       <category domain="https://cagve.github.io/categories/hacking">Hacking</category>

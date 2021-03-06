@@ -4,20 +4,14 @@
     <title>Tags on daemons karu</title>
     <link>https://cagve.github.io/daemons-karu/tags/</link>
     <description>Recent content in Tags on daemons karu</description>
-    <image>
-      <title>Tags on daemons karu</title>
-      <link>https://cagve.github.io/daemons-karu/tags/</link>
-      <url>https://source.unsplash.com/collection/983219/2000x1322</url>
-    </image>
     <ttl>1440</ttl>
     <generator>After Dark 9.2.3 (Hugo 0.81.0)</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Mar 2021 14:43:50 UT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 14:52:15 UT</lastBuildDate>
     <atom:link href="https://cagve.github.io/daemons-karu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>after</title>
       <link>https://cagve.github.io/daemons-karu/tags/after/</link>
-      <dc:creator>Karu</dc:creator>
       <guid>https://cagve.github.io/daemons-karu/tags/after/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -25,7 +19,6 @@
     <item>
       <title>dark</title>
       <link>https://cagve.github.io/daemons-karu/tags/dark/</link>
-      <dc:creator>Karu</dc:creator>
       <guid>https://cagve.github.io/daemons-karu/tags/dark/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
