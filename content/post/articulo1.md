@@ -1,18 +1,13 @@
 +++
 title = "Articulo1"
 date = 2021-03-06T12:17:01+01:00
-description = "This text was generated using the After Dark post archetype."
+description = "Este es mi primer post"
 draft = false
 toc = false
 categories = ["hacking"]
 tags = ["after", "dark"]
-images = [
-  "https://source.unsplash.com/collection/983219/1600x900"
-] # overrides site-wide open graph image
-[[copyright]]
-  owner = "Karu"
-  date = "2021"
-  license = "cc-by-nc-sa-4.0"
+owner = "Karu"
+license = "cc-by-nc-sa-4.0"
 +++
 
 Esto es mi primer artículo
