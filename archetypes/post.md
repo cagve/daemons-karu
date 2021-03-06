@@ -1,8 +1,8 @@
 +++
-title = "Articulo1"
-date = 2021-03-06T12:17:01+01:00
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }}
 description = "This text was generated using the After Dark post archetype."
-draft = false
+draft = true
 toc = false
 categories = ["hacking"]
 tags = ["after", "dark"]
@@ -10,9 +10,7 @@ images = [
   "https://source.unsplash.com/collection/983219/1600x900"
 ] # overrides site-wide open graph image
 [[copyright]]
-  owner = "Karu"
-  date = "2021"
+  owner = "{{ .Site.Params.author | default .Site.Title }}"
+  date = "{{ now.Format "2006" }}"
   license = "cc-by-nc-sa-4.0"
 +++
-
-Esto es mi primer artículo
