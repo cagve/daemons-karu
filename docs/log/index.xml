@@ -7,15 +7,15 @@
     <ttl>1440</ttl>
     <generator>After Dark 9.2.3 (Hugo 0.81.0)</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Mar 2021 16:17:12 UT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 20:33:42 UT</lastBuildDate>
     <atom:link href="https://cagve.github.io/daemons-karu/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Log1</title>
       <link>https://cagve.github.io/daemons-karu/log/log1/</link>
       <pubDate>Sat, 06 Mar 2021 15:58:43 UT</pubDate>
       <guid>https://cagve.github.io/daemons-karu/log/log1/</guid>
-      <description>LOG: Esto es logger </description>
-      <content:encoded><![CDATA[LOG: Esto es logger ]]></content:encoded>
+      <description>LOG: Esto es logger  [[Articulo 1]]  </description>
+      <content:encoded><![CDATA[LOG: Esto es logger  [[Articulo 1]]  ]]></content:encoded>
     </item>
   </channel>
 </rss>

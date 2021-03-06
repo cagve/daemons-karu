@@ -43,3 +43,10 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
  identifier = "log"
  url = "/log/"
 
+[[menu.main]]
+ name = "post"
+ weight = 1
+ identifier = "post"
+ url = "/post/"
+
+
