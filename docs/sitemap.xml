@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cagve.github.io/daemons-karu/log1/</loc>
+    <loc>https://cagve.github.io/daemons-karu/</loc>
+    <lastmod>2021-03-06T16:58:43+01:00</lastmod>
+  </url><url>
+    <loc>https://cagve.github.io/daemons-karu/log/log1/</loc>
+    <lastmod>2021-03-06T16:58:43+01:00</lastmod>
+  </url><url>
+    <loc>https://cagve.github.io/daemons-karu/log/</loc>
     <lastmod>2021-03-06T16:58:43+01:00</lastmod>
   </url><url>
     <loc>https://cagve.github.io/daemons-karu/tags/after/</loc>
@@ -12,9 +18,6 @@
     <lastmod>2021-03-06T15:50:03+01:00</lastmod>
   </url><url>
     <loc>https://cagve.github.io/daemons-karu/categories/</loc>
-    <lastmod>2021-03-06T15:50:03+01:00</lastmod>
-  </url><url>
-    <loc>https://cagve.github.io/daemons-karu/</loc>
     <lastmod>2021-03-06T15:50:03+01:00</lastmod>
   </url><url>
     <loc>https://cagve.github.io/daemons-karu/tags/dark/</loc>
