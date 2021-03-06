@@ -19,28 +19,16 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   hide_blog = true
 
 
-[[params.layout.home.section]]
-  type = "post"
-  limit = 2
-  weight = 1
+# [[params.layout.home.section]]
+#   type = "post"
+#   limit = 2
+#   weight = 1
 
-[[params.layout.home.section]]
-  type = "about"
-  weight = 2
+# [[params.layout.home.section]]
+#   type = "about"
+#   weight = 2
 
-[[params.layout.home.section]]
-  type = "log"
-  weight = 3
+# [[params.layout.home.section]]
+#   type = "log"
+#   weight = 3
  
-[menu]
-[[menu.main]]
-  name = "Home"
-  weight = 1
-  identifier = "home"
-  url = "/"
-
-[[menu.main]]
-  name = "Posts"
-  weight = 2
-  identifier = "post"
-  url = "/post/"
