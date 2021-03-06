@@ -18,7 +18,6 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 [params.layout.home]
   hide_blog = true
 
-
 # [[params.layout.home.section]]
 #   type = "post"
 #   limit = 2
