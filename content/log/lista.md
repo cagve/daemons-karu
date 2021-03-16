@@ -5,4 +5,3 @@ draft: true
 ---
 
 ## Lógica
-* pdf [hola que tal](../../content/pdf/agar.pdf){{< embed-pdf url="../pdf/agar.pdf" >}}

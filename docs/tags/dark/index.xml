@@ -7,17 +7,8 @@
     <ttl>1440</ttl>
     <generator>After Dark 9.2.3 (Hugo 0.81.0)</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Mar 2021 22:42:18 UT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 22:48:17 UT</lastBuildDate>
     <atom:link href="https://cagve.github.io/daemons-karu/tags/dark/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://cagve.github.io/daemons-karu/pdf/agar/</link>
-      <pubDate>Sat, 06 Mar 2021 23:27:07 UT</pubDate>
-      <guid>https://cagve.github.io/daemons-karu/pdf/agar/</guid>
-      <description>#the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; } #paginator{ text-align: center; margin-bottom: 10px; }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /     window.onload = function() { var url = &#34;https:\/\/cagve.github.io\/daemons-karu\/&#34; &#43; &#34;..\/pdf\/agar.pdf&#34;; var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;]; pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/cagve.github.io\/daemons-karu\/&#34; &#43; &#39;/js/pdf-js/build/pdf.worker.js&#39;; var pdfDoc = null, pageNum = 1, pageRendering = false, pageNumPending = null, scale = 3, canvas = document.</description>
-      <category domain="https://cagve.github.io/categories/blog">Blog</category>
-      <content:encoded><![CDATA[  #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; } #paginator{ text-align: center; margin-bottom: 10px; }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /     window.onload = function() { var url = &#34;https:\/\/cagve.github.io\/daemons-karu\/&#34; &#43; &#34;..\/pdf\/agar.pdf&#34;; var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;]; pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/cagve.github.io\/daemons-karu\/&#34; &#43; &#39;/js/pdf-js/build/pdf.worker.js&#39;; var pdfDoc = null, pageNum = 1, pageRendering = false, pageNumPending = null, scale = 3, canvas = document.getElementById(&#39;the-canvas&#39;), ctx = canvas.getContext(&#39;2d&#39;); function renderPage(num) { pageRendering = true; pdfDoc.getPage(num).then(function(page) { var viewport = page.getViewport({scale: scale}); canvas.height = viewport.height; canvas.width = viewport.width; var renderContext = { canvasContext: ctx, viewport: viewport }; var renderTask = page.render(renderContext); renderTask.promise.then(function() { pageRendering = false; if (pageNumPending !== null) { renderPage(pageNumPending); pageNumPending = null; } }); }); document.getElementById(&#39;page_num&#39;).textContent = num; } function queueRenderPage(num) { if (pageRendering) { pageNumPending = num; } else { renderPage(num); } } function onPrevPage() { if (pageNum = pdfDoc.numPages) { return; } pageNum&#43;&#43;; queueRenderPage(pageNum); } document.getElementById(&#39;next&#39;).addEventListener(&#39;click&#39;, onNextPage); pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) { pdfDoc = pdfDoc_; document.getElementById(&#39;page_count&#39;).textContent = pdfDoc.numPages; renderPage(pageNum); }); }  ]]></content:encoded>
-    </item>
     <item>
       <title>Hello World</title>
       <link>https://cagve.github.io/daemons-karu/post/hello-world/</link>
