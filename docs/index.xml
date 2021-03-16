@@ -7,19 +7,19 @@
     <ttl>1440</ttl>
     <generator>After Dark 9.2.3 (Hugo 0.81.0)</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Mar 2021 22:55:34 UT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 22:59:38 UT</lastBuildDate>
     <atom:link href="https://cagve.github.io/daemons-karu/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Posts</title>
-      <link>https://cagve.github.io/daemons-karu/post/</link>
-      <guid>https://cagve.github.io/daemons-karu/post/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
     <item>
       <title>Logs</title>
       <link>https://cagve.github.io/daemons-karu/log/</link>
       <guid>https://cagve.github.io/daemons-karu/log/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>https://cagve.github.io/daemons-karu/post/</link>
+      <guid>https://cagve.github.io/daemons-karu/post/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
